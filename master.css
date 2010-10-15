@@ -1,0 +1,32 @@
+body {
+  background: #111; 
+  text-align: center;
+}
+
+canvas {
+  border: solid 1px #00FFFF; 
+}
+
+#panel {
+	text-align: right;
+	width: 200px;
+	color: #FFFFFF;
+	font-size: 2em;
+}
+
+.value{
+	float: right;
+	width: 50px;
+	color: #FF0000;
+}
+
+#instructions{
+	color: #FFFFFF;
+	float: left;
+	text-align:left;
+}
+
+#message{
+	color: FF0000;
+	font-weight: bold;
+}
